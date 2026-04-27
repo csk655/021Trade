@@ -2,6 +2,8 @@ Trading App (Flutter)
 
 (App Recording is also added in repo, Pls go through the  application  and its implementation)
 
+(https://github.com/csk655/021Trade/blob/main/021Trade_Screen_Recording_20260427_164631.mp4 )
+
 A simple Flutter app to manage stock watchlists.
 Built mainly to practice Bloc, clean architecture, and keeping the codebase structured as it grows.
 
