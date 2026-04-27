@@ -1,4 +1,5 @@
 Trading App (Flutter)
+
 (App Recording is also added in repo, Pls go through the  application  and its implementation)
 
 A simple Flutter app to manage stock watchlists.
@@ -10,15 +11,20 @@ Built mainly to practice Bloc, clean architecture, and keeping the codebase stru
 
 **Features**
 Multiple watchlists (Watchlist 1, Watchlist 2, etc.)
+
 Search stocks inside a watchlist
+
 Edit watchlist (reorder items, remove items, save changes)
+
 Uses Bloc for state management
+
 Structured using repository pattern
 
 ---
 
 **Tech Stack**
 Flutter SDK: ^3.11.4
+
 flutter_bloc: ^8.1.3
 
 
@@ -27,10 +33,15 @@ flutter_bloc: ^8.1.3
 I followed a basic clean architecture approach to keep things separated:
 
 UI → only handles rendering
+
 Bloc → handles state and events
+
 Usecases → contain business logic
+
 Repository → abstraction layer
+
 DataSource → actual data (currently static)
+
 
 Flow looks like this:
 
