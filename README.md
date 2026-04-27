@@ -54,12 +54,16 @@ Can be easily replaced with API later.
 
 **Bloc usage**
   1. WatchlistBloc
-      Load watchlist
-      Search inside list
+     
+      > Load watchlist
+     
+      > Search inside list
+     
   2. EditWatchlistBloc
-      Load editable data
-      Reorder items
-      Delete items
-      Save updated list
+     
+      >Load editable data
+      >Reorder items
+      >Delete items
+      >Save updated list
 
 
