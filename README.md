@@ -62,8 +62,11 @@ Can be easily replaced with API later.
   2. EditWatchlistBloc
      
       >Load editable data
+      
       >Reorder items
+      
       >Delete items
+      
       >Save updated list
 
 
